@@ -23,14 +23,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/25XzHMf' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/walkthrough-codepath-web-102-prework-6oFzFBY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The changes and features necessary for the app were easy to understand and straightforward. 
 
 ## License
 
